@@ -9,4 +9,5 @@
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync"
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
 }
